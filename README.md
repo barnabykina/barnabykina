@@ -16,8 +16,8 @@ Computer Science student at [Andrews University](https://www.andrews.edu). Proud
 ### 📬 Get in Touch
 
 - GitHub: [github.com/barnabykina][github]
-- LinkedIn: linkedin.com/in/barnabykina
-- Site: Coming soon...
+- LinkedIn: [[linkedin.com/in/barnabykina]]
+- Site: [[barnabykina.com]]
 - E-mail: barnabykina@gmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
